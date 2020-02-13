@@ -1,0 +1,13 @@
+ 1]what is #include<stdio.h>?
+ans:-It is a preprocessor directive for c, it copies code and compiles the code.
+                                      (OR)
+It is a header file for input and output.
+
+2]what is printf?(write 20 questions on printf and answer them.)
+ans:-Printf is a function used to print the "character,string,float,integer,octal and hexadecimal values onto the output screen
+     
+3]wht is main?
+ans:-main() function is the entry point of any C program. It is the point at which execution of program is started. When a C program is executed, the execution control goes directly to the main() function. Every C program have a main() function.
+
+4]why should you learn touch typing on a qwerty keyboard?
+ans:-Touch typing helps teach you how to decode and break down words and sentences which can also help with spelling skills. As you learn to type you become used to the pattern of the QWERTY keyboard and the structure of the letters, muscle memory alone can help you remember how to spell
